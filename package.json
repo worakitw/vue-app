@@ -1,7 +1,7 @@
 {
   "name": "app",
   "version": "1.0.0",
-  "description": "",
+  "description": "app template",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env HOST=0.0.0.0 PORT=3000 nuxt",
