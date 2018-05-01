@@ -25,6 +25,7 @@ module.exports = {
     'object-curly-spacing': 0,
     'prefer-const': 0,
     'no-unneeded-ternary': ["error", { "defaultAssignment": true }],
+    'vue/max-attributes-per-line': 0,
   },
   globals: {
     // '$': true,
